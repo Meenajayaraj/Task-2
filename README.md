@@ -1,4 +1,4 @@
-"# Task-2-" 
+# Task-2- 
 
 ## Difference between document and window object
 
@@ -28,6 +28,6 @@ _syntx_
 window.property_name;
 ```
 
-find the below link of[ medium](https://medium.com/@sundharaj2517/difference-between-document-and-window-objects-087c4d0c6588)
+*find the below link of[ medium Page](https://medium.com/@sundharaj2517/difference-between-document-and-window-objects-087c4d0c6588)
 
 
